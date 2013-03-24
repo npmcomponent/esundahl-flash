@@ -4,7 +4,9 @@
   "description": "flash animation",
   "version": "0.0.1",
   "keywords": [],
-  "dependencies": {},
+  "dependencies": {
+    "esundahl/animated": "*"
+  },
   "development": {},
   "license": "MIT",
   "styles": [
