@@ -1,0 +1,13 @@
+{
+  "name": "flash",
+  "repo": "esundahl/flash",
+  "description": "flash animation",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "flash.css"
+  ]
+}
